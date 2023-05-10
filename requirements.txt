@@ -22,7 +22,8 @@ jupyterlite-p5-kernel==0.1.0
 jupyterlite-xeus-lua==0.3.1
 
 # Octave Kernel 
-xeus-octave
+octave
+octave_kernel
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3,<4
